@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter for frontend development**
 
-- 💬 Ask me about **Passionate about problem-solving**
+- 💬 About me **Passionate about problem-solving**
 
 - 📫 How to reach me **imdadul0202@gmail.com**
 
