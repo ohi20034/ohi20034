@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Imdadul Haque Ohi</h1>
 <h3 align="center">Competitive programmer</h3>
-<img align="right" alt="coding" width="400" src="[[![image](https://github.com/ohi20034/ohi20034/assets/93985458/082b6708-a600-4bda-bd47-9b53f016f2e8)](https://miro.medium.com/v2/resize:fit:640/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)](https://drive.google.com/file/d/16lbqot1tOQHviWS1KFtliLL7G19-ezXB/view?usp=sharing)
-">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/16lbqot1tOQHviWS1KFtliLL7G19-ezXB/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohi20034&label=Profile%20views&color=0e75b6&style=flat" alt="ohi20034" /> </p>
 
