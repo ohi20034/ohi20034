@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imdadul0202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TxVb7wXktPog70gegLns96MD_7O88jVe/view?usp=sharing](https://drive.google.com/file/d/1TxVb7wXktPog70gegLns96MD_7O88jVe/view?usp=sharing)
+- 📄 Know about my experiences https://shorturl.at/owU29
 
 - ⚡ Fun fact **I think i am funny**
 
